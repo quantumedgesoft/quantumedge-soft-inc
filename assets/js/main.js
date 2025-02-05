@@ -1,13 +1,4 @@
 /*-----------------------------------------------------------------
-
-Template Name: Extech - IT Solution & Technology HTML Template<
-Author:  ex-coders
-Author URI: https://themeforest.net/user/ex-coders
-Developer: Masirul Islam
-Version: 1.0.0
-Description: Extech - IT Solution & Technology HTML Template<
-
--------------------------------------------------------------------
 Js TABLE OF CONTENTS
 -------------------------------------------------------------------
 
